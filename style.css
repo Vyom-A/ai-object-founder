@@ -1,0 +1,29 @@
+body {
+background-size: cover;
+}
+.note {
+color : black;
+font-size : 25px;
+font-style: italic;
+}
+.header {
+border-radius: 25px;
+height :justify;
+font-weight: bolder;
+}
+.header2 {
+color : red;
+font-weight: bold;
+}
+#object_name_input {
+width : 80%;
+border-radius: 25px;
+}
+#start_button {
+width : 50%;
+border-radius: 25px;
+font-size : 30px;
+}
+#status , #object_name {
+font-size : 28px;
+}
